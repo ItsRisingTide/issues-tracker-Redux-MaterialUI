@@ -1,0 +1,57 @@
+.issuesPagination .selected a {
+    box-shadow: 0 0 2px #631b9e;
+    background-color: #fcf3ff;
+}
+
+.issuesPagination .disabled>a {
+    color: #ccc;
+    background-color: #f8f8f8;
+    border-color: #eee;
+    cursor: default;
+}
+
+.issuesPagination .disabled>a:hover {
+    background-color: #f8f8f8;
+}
+
+.issuesPagination .break {
+    margin: 0 8px;
+}
+
+.issuesPagination .previous {
+    margin-right: 1rem;
+}
+
+.issuesPagination .next {
+    margin-left: 1rem;
+}
+
+/* for dark theme */
+
+.issuesPaginationDark .selected a {
+    box-shadow: 0 0 2px #d500fa;
+    background-color: #302136;
+}
+
+.issuesPaginationDark .disabled>a {
+    color: rgb(97, 96, 96);
+    background-color: #242629;
+    border-color: #46494e;
+    cursor: default;
+}
+
+.issuesPaginationDark .disabled>a:hover {
+    background-color: #242629;
+}
+
+.issuesPaginationDark .break {
+    margin: 0 8px;
+}
+
+.issuesPaginationDark .previous {
+    margin-right: 1rem;
+}
+
+.issuesPaginationDark .next {
+    margin-left: 1rem;
+}
