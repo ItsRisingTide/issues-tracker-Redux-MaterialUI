@@ -1,5 +1,5 @@
 It's an issue-tracker app.
-Check it out : https://reminder-app-itsrisingtide.netlify.app
+Check it out : https://issues-tracker-itsrisingtide.netlify.app
 
 Here I use Redux-thunk for async data fetching, and besides that I decided to try MaterialUI as a design tool.
 
