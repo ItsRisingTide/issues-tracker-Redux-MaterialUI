@@ -15,10 +15,11 @@ Redux-thunk:
 
 MaterialUI:
 
-- I really liked the idea of theme object where all design parameters are held and overall materialUI system is cool: 
+I really liked the idea of theme object where all design parameters are held and overall materialUI system is cool.
+It has:
 - -Typography with responsive fonts
 - -Fixed color system
 - -Built in components, that can be customized with your theme
-- -React-friendly syntax 
+- -React-friendly syntax (makeStyles) 
 - -However if you want to use components that are not related to material at all
      customizing them according to the theme and making them integrate with material components might be very painful
