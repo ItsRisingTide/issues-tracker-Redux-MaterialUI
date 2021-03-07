@@ -100,12 +100,6 @@ const IssueInfo = () => {
 
   const s = useStyles();
 
-  // console.log(`rendering issue value ${issue}`);
-  // console.log(`rendering comments value with only useSelector${comments}`);
-  // console.log(`rendering material theme ${theme}`);
-  // console.log(
-  //   `rendering comments value with only useSelector${comments.length}`
-  // );
   return (
     <>
       <ThemeProvider theme={theme}>
